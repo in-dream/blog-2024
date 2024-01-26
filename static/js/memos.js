@@ -120,8 +120,8 @@ fetch(bbUrl).then(res => res.json()).then( resdata =>{
   }
   //在未展开评论时，默认显示评论数
   Artalk.loadCountWidget({
-    server: 'https://c.koobai.com/',
-    site: '空白唠叨', 
+    server: 'https://c.010316.xyz/',
+    site: '北海轻歌', 
     countEl: '#ArtalkCount'
   });
 })
@@ -299,8 +299,8 @@ function getTagNow(e){
 
   //在未展开评论时，默认显示评论数
   Artalk.loadCountWidget({
-    server: 'https://c.koobai.com/',
-    site: '空白唠叨', 
+    server: 'https://c.010316.xyz',
+    site: '北海轻歌', 
     countEl: '#ArtalkCount'
   });
   })
@@ -392,7 +392,7 @@ function loadArtalk(memo_id) {
       el: '#memo_' + memo_id,
       pageKey: '/m/' + memo_id,
       pageTitle: '',
-      server: 'http://138.2.239.192:8080/',
+      server: 'https://c.010316.xyz/',
       site: '北海轻歌',
       darkMode: 'auto'
     });
