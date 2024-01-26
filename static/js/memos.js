@@ -392,8 +392,8 @@ function loadArtalk(memo_id) {
       el: '#memo_' + memo_id,
       pageKey: '/m/' + memo_id,
       pageTitle: '',
-      server: 'https://c.koobai.com/',
-      site: '空白唠叨',
+      server: 'http://138.2.239.192:8080/',
+      site: '北海轻歌',
       darkMode: 'auto'
     });
   } else {
