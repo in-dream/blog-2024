@@ -1,8 +1,8 @@
 //头部背景图随机显示
 var data = [
-  { text: '拍摄于杭州西湖', image: 'https://img.010316.xyz/usr/Obsidian/about.webp' },
-  { text: '拍摄于北京长城', image: 'https://img.010316.xyz/usr/Obsidian/about-beij.webp' },
-  { text: '拍摄于杭州千岛湖', image: 'https://img.010316.xyz/usr/Obsidian/about-qdh.webp' }
+  { text: '北海轻歌', image: 'https://img.010316.xyz/usr/uploads/2019/03/waiting.jpg' },
+  { text: '北海轻歌', image: 'https://img.010316.xyz/usr/uploads/2019/03/waiting.jpg' },
+  { text: '北海轻歌', image: 'https://img.010316.xyz/usr/uploads/2019/03/waiting.jpg' }
 ];
 
 var randomIndex = Math.floor(Math.random() * data.length);

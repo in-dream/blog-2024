@@ -3,7 +3,7 @@
         {
             "image": "https://img.010316.xyz/usr/Obsidian/jiany.webp",
             "title": "剪映专业版",
-            "info": "自从开始剪视频之后，必备软件，适合我这种小白。喜欢里面各种预制的音乐/热梗/贴纸素材。",
+            "info": "运营着一个儿童寓言账号，主要用来剪辑寓言故事。",
             "macos": "macOS",
             "ios": "iOS",
             "shoufei": "付费",
@@ -18,17 +18,17 @@
             "link": "https://optimage.app/"
         },
         {
-            "image": "https://img.koobai.com/app/upic.webp",
-            "title": "uPic",
-            "info": "快速上传图片资源到各大存储平台，如腾讯云、又拍云、Github 等等。同类型开源的有 PicGO。",
+            "image": "https://img.010316.xyz/usr/Obsidian/PicGO.webp",
+            "title": "PicGO",
+            "info": "快速上传图片资源到各大存储平台，如腾讯云、又拍云、Github 等等。",
             "macos": "macOS",
-            "shoufei": "付费",
-            "link": "https://github.com/gee1k/uPic"
+            "shoufei": "免费",
+            "link": "https://picgo.github.io/PicGo-Doc/zh/"
         },   
         {
             "image": "https://img.010316.xyz/usr/Obsidian/chrome.webp",
             "title": "Google Chrome",
-            "info": "有些站点对 Chrome 的支持更完善，所以现在与 Firefox 交替使用。",
+            "info": "换来换去，还是感觉Chrome 使用起来更得心应手。",
             "macos": "macOS",
             "ios": "iOS",
             "free": "免费",
@@ -37,7 +37,7 @@
         {
             "image": "https://img.010316.xyz/usr/Obsidian/vscode.webp",
             "title": "Visual Studio Code",
-            "info": "代码编辑软件，只能说牛逼，再也不用切来切去了，只恨相见太晚。",
+            "info": "常用的代码编辑软件，虽然说对代码只懂点皮毛",
             "macos": "macOS",
             "free": "免费",
             "link": "https://code.visualstudio.com/"
@@ -52,46 +52,13 @@
             "link": "https://obsidian.md/"
         },                  
         {
-            "image": "https://img.koobai.com/app/pixelmator.webp",
-            "title": "Pixelmator Pro",
-            "info": "一直使用Photoshop，在想有没有平替，于是发现了这款轻量级软件，整体操作及快捷键跟ps差不多，还在摸索中～～",
+            "image": "https://img.010316.xyz/usr/Obsidian/Photoshop.png",
+            "title": "Photoshop cs3",
+            "info": "Photoshop 主要是用来工作。",
             "macos": "macOS",
             "shoufei": "付费",
-            "link": "https://www.pixelmator.com/pro/"
-        },                         
-        {
-            "image": "https://img.koobai.com/app/surge.webp",
-            "title": "Surge",
-            "info": "上网必备软件，已使用多年。虽然现在同质化的软件很多，但已使用习惯，主要还支持iCloud同步。",
-            "macos": "macOS",
-            "ios": "iOS",
-            "shoufei": "付费",
-            "link": "https://nssurge.com/"
-        },        
-        {
-            "image": "https://img.010316.xyz/usr/Obsidian/bob.webp",
-            "title": "Bob",
-            "info": "翻译必备软件，支持各种翻译形式。如果自己申请各大平台翻译密钥，配置好之后，日常翻译非常方便。",
-            "macos": "macOS",
-            "shoufei": "付费",
-            "link": "https://bobtranslate.com/"
-        },        
-        {
-            "image": "https://img.010316.xyz/usr/Obsidian/maccy.webp",
-            "title": "Maccy",
-            "info": "剪贴板管理软件，能记录多次的复制内容，方便随时调取使用。免费开源。",
-            "macos": "macOS",
-            "kaiyuan": "开源",
-            "link": "https://maccy.app/"
-        },        
-        {
-            "image": "https://img.010316.xyz/usr/Obsidian/iina.webp",
-            "title": "IINA",
-            "info": "视频播放软件，并且支持IPTV播放。免费开源。",
-            "macos": "macOS",
-            "kaiyuan": "开源",
-            "link": "https://iina.io/"
-        },
+            "link": "https://helpx.adobe.com/cn/photoshop/get-started.html?ivk_sa=1024320u"
+        },                                
         {
             "image": "https://img.010316.xyz/usr/Obsidian/youtube.webp",
             "title": "Youtube",
