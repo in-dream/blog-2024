@@ -17,7 +17,7 @@ enableRobotsTXT = true
   posts = '/:slug/'
 
 [params.artalk]
-    server="http://138.2.239.192:8080"
+    server="http://c.010316.xyz/"
     site="北海轻歌"
 
 [markup]
